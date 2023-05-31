@@ -1,0 +1,6 @@
+fabric_discovery/fabric_discovery.json
+fabric_discovery/fabric_membership.tf
+access_policies/access_policies.json
+access_policies/access_policies.tf
+tenant/tenant.json
+tenant/tenant.tf
